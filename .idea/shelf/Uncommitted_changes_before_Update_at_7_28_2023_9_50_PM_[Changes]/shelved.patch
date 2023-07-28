@@ -1,0 +1,21 @@
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Jeff Jeff Jeff\r\n\r\nHello Jeff!\r\n\r\nhello Jeff!\r\n\r\nHello 20230728
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.txt b/test.txt
+--- a/test.txt	(revision 5df7344159d4efdb43523c73145d9adff26d0f38)
++++ b/test.txt	(date 1690552068119)
+@@ -4,4 +4,7 @@
+ 
+ hello Jeff!
+ 
+-Hello 20230728
+\ No newline at end of file
++Hello 20230728
++
++
++Hello Clion Jeffgit
+\ No newline at end of file
